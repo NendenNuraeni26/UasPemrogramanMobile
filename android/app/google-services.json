@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "220990313586",
+    "project_id": "regisrperpus1",
+    "storage_bucket": "regisrperpus1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:220990313586:android:5a6be2f7b2ed845fc55eeb",
+        "android_client_info": {
+          "package_name": "com.example.flutterperpus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyNWeXIRM7AwVUHK_ikrBOsW3c_N7aOiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
